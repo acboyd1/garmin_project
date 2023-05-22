@@ -1,0 +1,37 @@
+import Toybox.Lang;
+using Toybox.WatchUi;
+using Toybox.WatchUi as Ui;
+using Toybox.Graphics;
+using Toybox.Graphics as Gfx;
+
+module Rez {
+    module Drawables {
+        (:initialized) var GraphPhoto as Symbol;
+        (:initialized) var LauncherIcon as Symbol;
+    } // Drawables
+
+    module Fonts {
+    } // Fonts
+
+    module JsonData {
+    } // JsonData
+
+    module Layouts {
+        function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            var rez_cmp_local_text_TimeLabel = new WatchUi.Text({:identifier=>"TimeLabel", :color=>Gfx.COLOR_WHITE, :locX=>(240 * 0.5), :locY=>((240 - dc.getFontHeight(Gfx.FONT_LARGE)) * 0.5), :justification=>Gfx.TEXT_JUSTIFY_CENTER, :font=>Gfx.FONT_LARGE});
+
+            var rez_cmp_local_text_Date = new WatchUi.Text({:identifier=>"Date", :color=>Gfx.COLOR_WHITE, :locX=>(240 * 0.5), :locY=>(240 * (5 / 100.0)), :justification=>Gfx.TEXT_JUSTIFY_CENTER, :font=>Gfx.FONT_TINY});
+
+            var rez_cmp_local_text_Battery = new WatchUi.Text({:identifier=>"Battery", :color=>Gfx.COLOR_WHITE, :locX=>(240 * 0.5), :locY=>(240 * (85 / 100.0)), :justification=>Gfx.TEXT_JUSTIFY_CENTER, :font=>Gfx.FONT_TINY});
+
+            return [rez_cmp_local_text_TimeLabel, rez_cmp_local_text_Date, rez_cmp_local_text_Battery] as Array<WatchUi.Drawable>;
+        }
+    } // Layouts
+
+    module Menus {
+    } // Menus
+
+    module Strings {
+        (:initialized) var AppName as Symbol;
+    } // Strings
+} // Rez

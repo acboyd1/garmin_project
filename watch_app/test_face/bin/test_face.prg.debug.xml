@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="2" lineNum="10" parent="globals/test_faceView" pc="268435486" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="5" lineNum="16" parent="globals/test_faceView" pc="268435505" symbol="onLayout"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="5" lineNum="17" parent="globals/test_faceView" pc="268435507" symbol="onLayout"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="7" lineNum="57" parent="globals/test_faceView" pc="268435549" symbol="&lt;globals/test_faceView/&lt;&gt;setDate&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="7" lineNum="58" parent="globals/test_faceView" pc="268435553" symbol="&lt;globals/test_faceView/&lt;&gt;setDate&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="7" lineNum="59" parent="globals/test_faceView" pc="268435590" symbol="&lt;globals/test_faceView/&lt;&gt;setDate&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="7" lineNum="60" parent="globals/test_faceView" pc="268435666" symbol="&lt;globals/test_faceView/&lt;&gt;setDate&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="7" lineNum="61" parent="globals/test_faceView" pc="268435694" symbol="&lt;globals/test_faceView/&lt;&gt;setDate&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="8" lineNum="12" parent="globals/test_faceView" pc="268435709" symbol="initialize"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="8" lineNum="13" parent="globals/test_faceView" pc="268435711" symbol="initialize"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="10" lineNum="64" parent="globals/test_faceView" pc="268435730" symbol="&lt;globals/test_faceView/&lt;&gt;setBattery&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="10" lineNum="66" parent="globals/test_faceView" pc="268435734" symbol="&lt;globals/test_faceView/&lt;&gt;setBattery&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="10" lineNum="67" parent="globals/test_faceView" pc="268435757" symbol="&lt;globals/test_faceView/&lt;&gt;setBattery&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="10" lineNum="68" parent="globals/test_faceView" pc="268435785" symbol="&lt;globals/test_faceView/&lt;&gt;setBattery&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="11" lineNum="23" parent="globals/test_faceView" pc="268435820" symbol="onUpdate"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="11" lineNum="37" parent="globals/test_faceView" pc="268435822" symbol="onUpdate"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="11" lineNum="38" parent="globals/test_faceView" pc="268435834" symbol="onUpdate"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceView.mc" id="11" lineNum="41" parent="globals/test_faceView" pc="268435846" symbol="onUpdate"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/bin/gen/006-B3110-00/source/Rez.mcgen" id="12" lineNum="7" parent="globals/Rez" pc="268435871" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="13" lineNum="5" parent="globals/test_faceApp" pc="268435895" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="14" lineNum="12" parent="globals/test_faceApp" pc="268435914" symbol="onStart"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="15" lineNum="20" parent="globals/test_faceApp" pc="268435917" symbol="getInitialView"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="15" lineNum="21" parent="globals/test_faceApp" pc="268435919" symbol="getInitialView"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="16" lineNum="7" parent="globals/test_faceApp" pc="268435960" symbol="initialize"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="16" lineNum="8" parent="globals/test_faceApp" pc="268435962" symbol="initialize"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/source/test_faceApp.mc" id="17" lineNum="16" parent="globals/test_faceApp" pc="268435981" symbol="onStop"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/bin/gen/006-B3110-00/source/Rez.mcgen" id="18" lineNum="20" parent="globals/Rez/Layouts" pc="268435984" symbol="WatchFace"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/bin/gen/006-B3110-00/source/Rez.mcgen" id="18" lineNum="21" parent="globals/Rez/Layouts" pc="268435996" symbol="WatchFace"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/bin/gen/006-B3110-00/source/Rez.mcgen" id="18" lineNum="23" parent="globals/Rez/Layouts" pc="268436131" symbol="WatchFace"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/bin/gen/006-B3110-00/source/Rez.mcgen" id="18" lineNum="25" parent="globals/Rez/Layouts" pc="268436243" symbol="WatchFace"/>
+        <entry filename="/Users/augustboyd/Desktop/garmin_repo/watch_app/test_face/bin/gen/006-B3110-00/source/Rez.mcgen" id="18" lineNum="27" parent="globals/Rez/Layouts" pc="268436355" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="7" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="9" object="true" symbol="test_faceApp"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="10" object="true" symbol="test_faceView"/>
+        <entry field="true" id="17" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="14" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="12" method="true" symbol="&lt;globals/test_faceView/&lt;&gt;setDate&gt;"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="15" symbol="GraphPhoto"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="11" method="true" symbol="&lt;globals/test_faceView/&lt;&gt;setBattery&gt;"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="13" module="true" symbol="Layouts"/>
+        <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435548" name="dc" stackId="1" startPc="268435505"/>
+        <entry endPc="268435707" name="date" stackId="1" startPc="268435553"/>
+        <entry endPc="268435707" name="dateString" stackId="2" startPc="268435553"/>
+        <entry endPc="268435707" name="dateDisplay" stackId="3" startPc="268435553"/>
+        <entry endPc="268435818" name="batteryInfo" stackId="1" startPc="268435734"/>
+        <entry endPc="268435818" name="batteryDisplay" stackId="2" startPc="268435734"/>
+        <entry arg="true" endPc="268435870" name="dc" stackId="1" startPc="268435820"/>
+        <entry arg="true" endPc="268436391" name="dc" stackId="1" startPc="268435984"/>
+        <entry endPc="268436391" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435996"/>
+        <entry endPc="268436391" name="rez_cmp_local_text_Date" stackId="3" startPc="268435996"/>
+        <entry endPc="268436391" name="rez_cmp_local_text_Battery" stackId="4" startPc="268435996"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="GraphPhoto"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/test_faceView" offset="158" parentId="globals" symbolId="test_faceView" type="class"/>
+        <dataEntry label="globals/Rez" offset="269" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/test_faceApp" offset="348" parentId="globals" symbolId="test_faceApp" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="466" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="505" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="536" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="567" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="606" parentId="Rez" symbolId="JsonData" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435504" name="&lt;init&gt;" parent="test_faceView" startPc="268435486">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="test_faceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="test_faceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435548" name="onLayout" parent="test_faceView" startPc="268435505">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="test_faceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435708" name="&lt;globals/test_faceView/&lt;&gt;setDate&gt;" parent="test_faceView" startPc="268435549">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435729" name="initialize" parent="test_faceView" startPc="268435709">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="test_faceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435819" name="&lt;globals/test_faceView/&lt;&gt;setBattery&gt;" parent="test_faceView" startPc="268435730">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435870" name="onUpdate" parent="test_faceView" startPc="268435820">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435894" name="&lt;init&gt;" parent="Rez" startPc="268435871">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435913" name="&lt;init&gt;" parent="test_faceApp" startPc="268435895">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435916" name="onStart" parent="test_faceApp" startPc="268435914">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435959" name="getInitialView" parent="test_faceApp" startPc="268435917">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435980" name="initialize" parent="test_faceApp" startPc="268435960">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435983" name="onStop" parent="test_faceApp" startPc="268435981">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436391" name="WatchFace" parent="Layouts" startPc="268435984">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
